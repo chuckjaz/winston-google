@@ -1,0 +1,32 @@
+{
+  "name": "winston-google",
+  "version": "1.0.0",
+  "description": "A Google Cloud transport for Winston",
+  "main": "winston-google.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chuckjaz/winston-google.git"
+  },
+  "keywords": [
+    "winston",
+    "transport"
+  ],
+  "author": "Google Inc.",
+  "contributors": [{
+    "name": "Chuck Jazdzewsk",
+    "email": "chuckj@google.com"
+  }, {
+    "name": "Roberto Chinnici",
+    "email": "rrch@google.com"
+  }],
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/chuckjaz/winston-google/issues"
+  },
+  "dependencies": {
+    "winston": "~0.8.3"
+  }
+}
